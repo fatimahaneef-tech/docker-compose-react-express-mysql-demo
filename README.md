@@ -255,7 +255,7 @@ docker compose down -v
 
 This project is based on the React + Express + MySQL/MariaDB example from Docker's awesome-compose repository:
 
-https://github.com/docker/awesome-compose/tree/main/react-express-mysql
+[https://github.com/docker/awesome-compose/tree/main/react-express-mysql](https://github.com/docker/awesome-compose.git)
 
 The original application structure has been retained while the Compose configuration has been extended with:
 
