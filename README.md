@@ -8,18 +8,20 @@ The original application is based on the React + Express + MySQL/MariaDB example
 
 ## Project structure
 
+​```
 .
 ├── backend/
-│ ├── Dockerfile
-│ └── ...
+│   ├── Dockerfile
+│   └── ...
 ├── db/
-│ └── password.txt
+│   └── password.txt
 ├── frontend/
-│ ├── Dockerfile
-│ └── ...
+│   ├── Dockerfile
+│   └── ...
 ├── compose.yaml
 ├── .env.example
 └── README.md
+​```
 
 
 ## Compose configuration
